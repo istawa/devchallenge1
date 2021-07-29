@@ -9,11 +9,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://https://6102aed8d522941c08394bf8--dreamy-heyrovsky-2c71c1.netlify.app">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/istawa/devchallenge1">
       Solution
     </a>
     <span> | </span>
@@ -72,5 +72,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@istawa](https://{github.com/istawa})
+- GitHub [@istawa](https://github.com/istawa)
 - Twitter [@your-twitter](https://{twitter.com/your-username})
