@@ -9,7 +9,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://6102aed8d522941c08394bf8--dreamy-heyrovsky-2c71c1.netlify.app">
+    <a href="https://6102aed8d522941c08394bf8--dreamy-heyrovsky-2c71c1.netlify.app">
       Demo
     </a>
     <span> | </span>
